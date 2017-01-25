@@ -2,7 +2,7 @@
 
 ## 项目信息
 
-### [在线阅读](https://www.gitbook.com/book/bookmachine/journey-to-the-west/details)
+### [在线阅读](https://bookmachine.gitbooks.io/journey-to-the-west/content/)
 
 ## 作者信息 {#项目信息}
 
@@ -25,6 +25,4 @@
 ---
 
 东胜神州花果山的一块巨石爆出了一只明灵石猴，拜倒菩提祖师门下，命名孙悟空，苦练成通天本领后却因醉酒闯下大祸，被如来压于五指山下。五百年后，观音菩萨点化悟空，拜唐三藏为师，悟空遂跟随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。
-
-
 
