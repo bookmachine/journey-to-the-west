@@ -12,7 +12,7 @@
 
 **中国明代杰出的小说家，是四大名著之一《西游记》的作者。自幼敏慧，博览群书，尤喜爱神话故事。在科举中屡遭挫折，嘉靖中补贡生。嘉靖四十五年 1566年 任浙江长兴县丞。由于宦途困顿，晚年绝意仕进，闭门著述。**
 
-如果你喜欢这个项目可以[点击Star一下](https://www.gitbook.com/book/bookmachine/journey-to-the-west/details)，您的支持是我们最大的动力。
+如果你喜欢这个项目可以[点击Star一下](https://github.com/bookmachine/journey-to-the-west)，您的支持是我们最大的动力。
 
 ---
 
